@@ -12,6 +12,7 @@
 ## Projects
 *Current Project*
 - Writeup Blog Webpage
+- Discord Bot
 
 *Completed Projects*
 - ..
