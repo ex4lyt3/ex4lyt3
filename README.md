@@ -19,6 +19,8 @@
 
 *Projects Coming Up*
 - Portfolio Webpage
+- Unity Development Project
+- LFS
 - Android App Development (?)
 <!---
 ex4lyt3/ex4lyt3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
