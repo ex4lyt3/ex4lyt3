@@ -1,6 +1,6 @@
- # 👋 Hello, I'm ex4lyt3
-- 👀 I’m a student and passionate about cybersecurity
-- 🌱 I’m currently learning cybersecurity through TryHackMe
+ # 👋 Hello!
+- 👀 I’m a student who's passionate about cybersecurity!
+- 🌱 I’m currently learning cybersecurity through TryHackMe and other platforms
 - 
 [![ex4lyt3's GitHub stats](https://github-readme-stats.vercel.app/api?username=ex4lyt3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ex4lyt3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
