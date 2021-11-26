@@ -12,15 +12,17 @@
 ## Projects
 *Current Project*
 - Writeup Blog Webpage
-- Discord Bot
+- Discord Bot (Valst/Tilt)
+- Unity Project (Siege)
 
 *Completed Projects*
 - ..
 
 *Projects Coming Up*
 - Portfolio Webpage
-- Unity Development Project
 - LFS
+- API Development
+- AI Development
 - Android App Development (?)
 <!---
 ex4lyt3/ex4lyt3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
