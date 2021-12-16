@@ -1,6 +1,6 @@
  # 👋 Hello!
-- 👀 I’m a student who's passionate about cybersecurity!
-- 🌱 I’m currently learning cybersecurity through TryHackMe and other platforms
+- I’m a student
+- I’m currently learning cybersecurity (self-learn)
 - 
 [![ex4lyt3's GitHub stats](https://github-readme-stats.vercel.app/api?username=ex4lyt3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ex4lyt3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,6 +14,13 @@
 - Writeup Blog Webpage
 - Discord Bot (Valst/Tilt)
 - Unity Project (Siege)
+
+## Languages
+- Lua/Luau (2020)
+- Python (2020)
+- HTML/CSS (2021)
+- Javascript (2021)
+- C# (2021)
 
 *Completed Projects*
 - ..
