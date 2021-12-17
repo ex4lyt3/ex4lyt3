@@ -11,7 +11,7 @@
 
 ## Projects
 *Current Project*
-- Writeup Blog Webpage
+- Personal Webpage
 - Discord Bot (Valst/Tilt)
 - Unity Project (Siege)
 
@@ -26,7 +26,7 @@
 - ..
 
 *Projects Coming Up*
-- Portfolio Webpage
+- Personal Webpage Redesign
 - LFS
 - API Development
 - AI Development
