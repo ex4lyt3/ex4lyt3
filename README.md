@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ex4lyt3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Achievements/Certificates
-- YCEP(TP) 2021 CTF 5th Place/Certificate of Commendation
+- YCEP 2021 CTF Certificate of Commendation
 - YCEP CCTF 2021 Certificate of Participation
 
 ## Projects
