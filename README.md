@@ -1,8 +1,5 @@
- # 👋 Hello!
-- I’m a student
-- I’m currently learning cybersecurity (self-learn)
-- 
-[![ex4lyt3's GitHub stats](https://github-readme-stats.vercel.app/api?username=ex4lyt3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ # 👋 
+ # ex4 | Student | Passionate about cybersecurity
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ex4lyt3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Achievements/Certificates
