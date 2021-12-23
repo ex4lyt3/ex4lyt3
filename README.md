@@ -11,6 +11,7 @@
 - Personal Webpage
 - Discord Bot (Valst/Tilt)
 - Unity Project (Siege)
+*My projects are all in my github repos*
 
 ## Languages
 - Lua/Luau (2020)
@@ -24,7 +25,7 @@
 
 *Projects Coming Up*
 - Personal Webpage Redesign
-- LFS
+- ExPass
 - API Development
 - AI Development
 - Android App Development (?)
