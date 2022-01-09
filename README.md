@@ -2,9 +2,8 @@
  # ex4 | Student | Passionate about cybersecurity
 
 
-## Achievements/Certificates
-- YCEP 2021 CTF Certificate of Commendation
-- YCEP CCTF 2021 Certificate of Participation
+## Certifications
+-
 
 ## Projects
 *Current Project*
@@ -12,16 +11,6 @@
 - Discord Bot (Valst/Tilt)
 - Unity Project (Siege)
 *My projects are all in my github repos*
-
-## Languages
-- Lua/Luau (2020)
-- Python (2020)
-- HTML/CSS (2021)
-- Javascript (2021)
-- C# (2021)
-
-*Completed Projects*
-- ..
 
 *Projects Coming Up*
 - Personal Webpage Redesign
