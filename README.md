@@ -1,20 +1,16 @@
  # 👋 
  # ex4 | Student | Passionate about cybersecurity
 
-
-## Certifications
--
-
 ## Projects
 *Current Project*
 - Personal Webpage
 - Discord Bot (Valst/Tilt)
 - Unity Project (Siege)
+- ExPass 
 *My projects are all in my github repos*
 
 *Projects Coming Up*
 - Personal Webpage Redesign
-- ExPass
 - API Development
 - AI Development
 - Android App Development (?)
